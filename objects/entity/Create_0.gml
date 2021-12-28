@@ -1,0 +1,1 @@
+components = ds_map_create(); // Container for components. 
